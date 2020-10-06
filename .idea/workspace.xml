@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41177a57-f96f-4892-bfad-eb57b484855c" name="Default Changelist" comment="" />
+    <list default="true" id="41177a57-f96f-4892-bfad-eb57b484855c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.docker/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -166,6 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1599434037958</updated>
       <workItem from="1599434039826" duration="2763000" />
+      <workItem from="1600133417155" duration="919000" />
+      <workItem from="1602023670915" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -173,9 +186,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1599435209525">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="231" y="173" width="894" height="428" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602023750411">
+      <screen x="0" y="27" width="3286" height="1053" />
+    </state>
+    <state x="231" y="173" width="894" height="428" key="#com.intellij.fileTypes.FileTypeChooser/0.27.3286.1053@0.27.3286.1053" timestamp="1602023750411" />
+    <state x="1066" y="259" width="1151" height="678" key="search.everywhere.popup" timestamp="1602023982552">
+      <screen x="0" y="27" width="3286" height="1053" />
     </state>
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1599435209525" />
+    <state x="1066" y="259" width="1151" height="678" key="search.everywhere.popup/0.27.3286.1053@0.27.3286.1053" timestamp="1602023982552" />
   </component>
 </project>
